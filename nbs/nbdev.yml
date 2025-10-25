@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Pytorch_Nerf"
+  site-url: "https://ssoufiene.github.io/Pytorch_Nerf"
+  description: "Pytorch reimplementation of Nerf"
+  repo-branch: main
+  repo-url: "https://github.com/ssoufiene/Pytorch_Nerf"
